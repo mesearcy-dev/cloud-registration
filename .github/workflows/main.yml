@@ -18,3 +18,10 @@ jobs:
 
       - name: Run build step
         run: echo "Simulating build step for cloud registration"
+      
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tests
+        run: npm test
+

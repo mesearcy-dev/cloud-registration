@@ -1,0 +1,23 @@
+{
+  "name": "cloud-registration",
+  "version": "1.0.0",
+  "description": "Forage Datacom Cloud Simulation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesearcy-dev/cloud-registration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesearcy-dev/cloud-registration/issues"
+  },
+  "homepage": "https://github.com/mesearcy-dev/cloud-registration#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
